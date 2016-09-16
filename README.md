@@ -17,3 +17,8 @@ This file contain hexcode for creating  bindshell connection
 
 
 THESE CODES ARE TESTED ON KALI LINUX 2.0 AND UBUNTU 14.04 LTS
+
+If You Think  Program Can Be Improve ....Feel
+Free To Comment.....
+
+ThanX
